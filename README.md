@@ -10,7 +10,7 @@
 
 <a href="https://space.bilibili.com/483884897?spm_id_from=333.1007.0.0"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：b 站主页，洒洒水啦 😘
 
-<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://a.www.hlsiyy.love/video/Drowning%20In%20Space_5.mp4" width="300" height="100%" /></div>
 
 ### 技术栈
 
@@ -25,6 +25,8 @@
 
 ### 开源项目
 
-问这个干嘛，你干嘛，哎呦 🚗🚀🚩
+你干嘛，哎呦 🚗🚀🚩
 
-禁止以商业等盈利用途，仅学习使用
+### 补充
+
+~~禁止以商业等盈利用途，仅学习使用~~
