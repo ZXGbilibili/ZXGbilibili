@@ -10,7 +10,7 @@
 
 <a href="https://space.bilibili.com/483884897?spm_id_from=333.1007.0.0"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：b 站主页，洒洒水啦 😘
 
-<video src="https://a.www.hlsiyy.love/video/Drowning%20In%20Space_5.mp4" controls=”controls” width="300" height="500"></video>
+<div><img align="right" alt="GIF" src="https://a.www.hlsiyy.love/video/vsgif_com_minion-using-computer_.3447037.gif" width="300" height="100%" /></div>
 
 ### 技术栈
 
