@@ -14,21 +14,17 @@
 
 ### 技术栈
 
-<a href="https://github.com/openjdk/jdk"><code><img height="20" src="./images/Java.jpeg"></code></a>
-<a href="https://www.w3school.com.cn/html/html5_intro.asp"><code><img height="20" src="./images/H5.jpeg"></code></a>
-<a href="https://www.w3cschool.cn/c/c-intro.html"><code><img height="20" src="./images/C.jpg"></code></a>
-<a href="https://www.w3cschool.cn/css3/a2yscflg.html"><code><img height="20" src="./images/CSS3.jpg"></code></a>
-<a href="https://www.w3cschool.cn/javascript/js-intro.html"><code><img height="20" src="./images/JS.jpg"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
-<a href="https://github.com/openjdk/jdk"><img height="30" src="./images/Java.jpeg"></a>
-<a href="https://www.w3school.com.cn/html/html5_intro.asp"><img height="30" src="./images/H5.jpeg"></a>
-<a href="https://www.w3cschool.cn/c/c-intro.html"><img height="30" src="./images/C.jpg"></a>
-<a href="https://www.w3cschool.cn/css3/a2yscflg.html"><img height="30" src="./images/CSS3.jpg"></a>
-<a href="https://www.w3cschool.cn/javascript/js-intro.html"><img height="30" src="./images/JS.jpg"></a>
-<a href="https://www.docker.com"><img height="30" src="./images/docker.png"></a>
+<a href="https://haicoder.net/python/python-tutorial.html"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfUNv9.png"></a>
+<a href="https://haicoder.net/php/php-tutorial.html"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfUdD1.png"></a>
+<a href="https://haicoder.net/linux/linux-tutorial.html"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfUDUK.png"></a>
+<a href="https://www.w3school.com.cn/html/html5_intro.asp"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfNq76.png"></a>
+<a href="https://www.w3cschool.cn/c/c-intro.html"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfNz1H.png"></a>
+<a href="https://www.w3cschool.cn/css3/a2yscflg.html"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfUCnI.png"></a>
+<a href="https://www.w3cschool.cn/javascript/js-intro.html"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfUkAf.png"></a>
+<a href="https://www.docker.com"><img height="30" src="https://s1.ax1x.com/2023/02/10/pSfUiHP.png"></a>
 
 ### 开源项目
 
-别问这个，你干嘛，哎呦 🚗🚀🚩
+问这个干嘛，你干嘛，哎呦 🚗🚀🚩
 
 禁止以商业等盈利用途，仅学习使用
