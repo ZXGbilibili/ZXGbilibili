@@ -4,7 +4,7 @@
 
 ## 社交主页
 
-<a href="https://www.hlsiyy.love/"><code><img height="20" width="20" src="https://a.www.hlsiyy.love/logo/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg"></code></a>：我的 blog，累计访问 16 万+，还能走多远目前未知 🤞
+<a href="https://www.lovezxg.com/"><code><img height="20" width="20" src="https://a.www.hlsiyy.love/logo/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg"></code></a>：我的 blog，累计访问 16 万+，还能走多远目前未知 🤞
 
 <a href="https://zxgbilibili.github.io/"><code><img height="20" width="20" src="https://a.www.hlsiyy.love/logo/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg"></code></a>：hexo 搭建并托管 GitHub，相比 DIY 性更高，敏感的一些东西可在此浏览 🎈
 
