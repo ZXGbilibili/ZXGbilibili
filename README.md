@@ -6,7 +6,7 @@
 
 <a href="https://www.lovezxg.cn/"><code><img height="20" width="20" src="https://up.lovezxg.cn/logo/blog.jpg"></code></a>：我的 blog，累计访问 16 万+，还能走多远目前未知 🤞
 
-<a href="https://zxgbilibili.github.io/"><code><img height="20" width="20" src="https://up.lovezxg.cn/logo/blog.jpg"></code></a>：hexo 搭建并托管 GitHub，相比 DIY 性更高，敏感的一些东西可在此浏览 🎈
+<a href="https://zxgbilibili.github.io/"><code><img height="20" width="20" src="https://up.lovezxg.cn/logo/blog.jpg"></code></a>：hexo 搭建，副站 🎈
 
 <a href="https://space.bilibili.com/483884897?spm_id_from=333.1007.0.0"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：似乎很久没发布视频了，只顾得"赶路"喽 😘
 
