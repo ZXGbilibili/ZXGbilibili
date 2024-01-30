@@ -8,7 +8,7 @@
 
 <a href="https://zxgbilibili.github.io/"><code><img height="20" width="20" src="https://up.lovezxg.cn/logo/blog.jpg"></code></a>：hexo 搭建，副站 🎈
 
-<a href="https://space.bilibili.com/483884897?spm_id_from=333.1007.0.0"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：似乎很久没发布视频了，只顾得"赶路"喽 😘
+<a href="https://space.bilibili.com/483884897?spm_id_from=333.1007.0.0"><code><img height="20" width="20" src="https://www.bilibili.com/favicon.ico"></code></a>：似乎很久没发布视频了 😘
 
 <div><img align="right" alt="GIF" src="https://up.lovezxg.cn/video/vsgif_com_minion-using-computer_.344703.webp" width="300" height="100%" /></div>
 
